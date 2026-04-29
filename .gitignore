@@ -1,4 +1,73 @@
-# IDE配置相关
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Environment files and local secrets
+.env
+.env.*
+api/.env
+api/.env.*
+docker/.env
+
+# SSL / key files
+*.pem
+*.key
+*.crt
+docker/nginx/ssl/
+docker/nginx/ssl/*
+
+# Docker overrides
+docker-compose.override.yml
+docker-compose.override.yaml
+
+# Node / frontend
+node_modules/
+ui/node_modules/
+ui/dist/
+ui/build/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+
+# Python environment
+.python-version
+
+# SQLite
+*.sqlite3
+
+# Coverage
+htmlcov/
+.coverage
+
+# Generated / packaging
+*.egg-info/
+
+# Note: sensitive files already committed (e.g. docker/docker-compose.yaml,
+# docker/nginx/ssl/*.key) must be removed from git history and rotated.# IDE配置相关
 .idea/
 .vscode/
 

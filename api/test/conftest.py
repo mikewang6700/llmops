@@ -23,7 +23,8 @@ def app():
 def client(app):
     """获取Flask应用的测试应用，并返回"""
     with app.test_client() as client:
-        access_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0NmRiMzBkMS0zMTk5LTRlNzktYTBjZC1hYmYxMmZhNjg1OGYiLCJpc3MiOiJsbG1vcHMiLCJleHAiOjE3MzM1MDU2NTR9.HSKjINY58fzengY3BmxIDOnJyACnBnz9NmgVN3y02iI"
+        # 已移除明文测试凭证，使用占位符
+        access_token = "<REDACTED>"
         client.environ_base["HTTP_AUTHORIZATION"] = f"Bearer {access_token}"
         yield client
 
