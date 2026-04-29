@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/15 14:21
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : segment_schema.py
 """
 from flask_wtf import FlaskForm

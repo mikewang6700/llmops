@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/9/1 10:16
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : document_schema.py
 """
 import uuid

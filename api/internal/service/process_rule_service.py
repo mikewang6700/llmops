@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/03 15:21
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : process_rule_service.py
 """
 import re

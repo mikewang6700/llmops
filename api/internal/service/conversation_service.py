@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/28 0:15
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : conversation_service.py
 """
 import logging

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/01 11:04
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : default_model_parameter_template.py
 """
 from .model_entity import DefaultModelParameterName, ModelParameterType

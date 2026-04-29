@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { useUpdateDraftAppConfig } from '@/hooks/use-app'
 import { useOptimizePrompt } from '@/hooks/use-ai'

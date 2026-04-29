@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { type BaseResponse } from '@/models/base'
 
 // 获取内置插件分类接口响应接口

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/03 9:33
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : assistant_agent_service.py
 """
 import json

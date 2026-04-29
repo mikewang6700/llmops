@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/3 9:22
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : assistant_agent_handler.py
 """
 from dataclasses import dataclass

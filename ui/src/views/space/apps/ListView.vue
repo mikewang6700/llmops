@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import moment from 'moment/moment'
 import { useCopyApp, useDeleteApp, useGetAppsWithPage } from '@/hooks/use-app'

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/19 21:23
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : gaode_weather.py.py
 """
 import json

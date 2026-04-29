@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/03 13:48
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : faiss_service.py
 """
 import os

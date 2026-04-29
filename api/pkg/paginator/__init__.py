@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/2 21:04
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : __init__.py.py
 """
 from .paginator import PaginatorReq, Paginator, PageModel

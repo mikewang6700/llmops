@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { type BaseResponse } from '@/models/base'
 
 // 获取指定第三方授权服务重定向响应结构

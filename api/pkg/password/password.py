@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/25 22:40
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : password.py
 """
 import base64

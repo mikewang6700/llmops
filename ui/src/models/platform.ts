@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import type { BaseResponse } from '@/models/base'
 
 // 获取微信配置响应结构

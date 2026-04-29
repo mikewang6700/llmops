@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/02/14 8:33
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : markdown_to_pptx.py
 """
 import logging

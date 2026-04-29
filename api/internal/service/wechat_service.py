@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/01/19 17:21
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : wechat_service.py
 """
 from dataclasses import dataclass

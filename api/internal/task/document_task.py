@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/03 14:54
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : document_task.py
 """
 from uuid import UUID

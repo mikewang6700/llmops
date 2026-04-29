@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/16 15:37
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : redis_extension.py
 """
 import redis

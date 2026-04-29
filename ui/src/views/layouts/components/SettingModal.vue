@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 import { useAccountStore } from '@/stores/account'

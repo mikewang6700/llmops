@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/4/2 14:19
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : exception.py
 """
 from dataclasses import field

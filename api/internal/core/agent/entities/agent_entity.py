@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/01 15:37
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : agent_entity.py
 """
 from uuid import UUID

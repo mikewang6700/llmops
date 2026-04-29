@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/01 1:44
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : chat.py
 """
 from langchain_ollama import ChatOllama

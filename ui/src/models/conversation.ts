@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { type BasePaginatorRequest, type BasePaginatorResponse } from '@/models/base'
 
 // 获取指定会话消息列表请求结构

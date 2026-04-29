@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/03 14:57
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : indexing_service.py
 """
 import logging

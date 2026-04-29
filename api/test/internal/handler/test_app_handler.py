@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/4/4 16:29
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : test_app_handler.py
 """
 import pytest

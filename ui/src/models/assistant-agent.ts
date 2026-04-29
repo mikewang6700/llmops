@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import type { BasePaginatorRequest, BasePaginatorResponse } from '@/models/base'
 
 // 获取辅助Agent会话消息分页列表请求结构

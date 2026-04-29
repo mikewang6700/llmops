@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { nextTick, onMounted, type PropType, ref, watch } from 'vue'
 import { useUpdateDraftAppConfig } from '@/hooks/use-app'

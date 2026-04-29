@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { useRoute } from 'vue-router'
 import { useGetDraftAppConfig } from '@/hooks/use-app'

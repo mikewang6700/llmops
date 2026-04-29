@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import NotFound from '@/assets/images/not-found.png'
 </script>

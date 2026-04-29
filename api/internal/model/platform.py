@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/01/19 18:50
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : platform.py
 """
 from datetime import datetime

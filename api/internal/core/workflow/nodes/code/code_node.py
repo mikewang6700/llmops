@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/25 15:42
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : code_node.py
 """
 import ast

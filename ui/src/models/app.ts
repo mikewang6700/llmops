@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { type BasePaginatorRequest, type BasePaginatorResponse, type BaseResponse } from '@/models/base' // 获取应用信息响应结构
 
 // 获取应用信息响应结构

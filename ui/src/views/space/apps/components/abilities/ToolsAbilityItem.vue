@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { computed, onMounted, type PropType, ref } from 'vue'
 import { type GetDraftAppConfigResponse } from '@/models/app'

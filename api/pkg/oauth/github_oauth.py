@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/25 14:56
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : github_oauth.py
 """
 import urllib.parse

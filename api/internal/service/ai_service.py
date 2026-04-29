@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/02 10:53
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : ai_service.py
 """
 import json

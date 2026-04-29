@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/01/18 0:43
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : platform_service.py
 """
 from dataclasses import dataclass

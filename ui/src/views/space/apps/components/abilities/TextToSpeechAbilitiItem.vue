@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { cloneDeep, isEqual } from 'lodash'
 import { nextTick, ref, watch } from 'vue'

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/25 10:28
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : llm_node.py
 """
 import time

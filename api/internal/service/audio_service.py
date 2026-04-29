@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/01/13 9:33
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : audio_service.py
 """
 import base64

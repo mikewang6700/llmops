@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/08 22:57
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : cache_entity.py
 """
 # 缓存所的过期时间，单位为妙，默认为600

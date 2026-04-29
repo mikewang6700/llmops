@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/3 10:16
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : base_service.py
 """
 from typing import Any, Optional

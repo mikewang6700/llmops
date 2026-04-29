@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/4/5 18:50
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : default_config.py
 """
 # 应用默认配置项

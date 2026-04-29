@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { createRouter, createWebHistory } from 'vue-router'
 import auth from '@/utils/auth'
 import DefaultLayout from '@/views/layouts/DefaultLayout.vue'

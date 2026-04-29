@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/10 22:09
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : web_app_schema.py
 """
 from urllib.parse import urlparse

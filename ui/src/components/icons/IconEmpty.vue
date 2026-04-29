@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <template>
   <svg
     width="360"

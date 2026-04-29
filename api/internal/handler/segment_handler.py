@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/15 14:17
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : segment_handler.py
 """
 from dataclasses import dataclass

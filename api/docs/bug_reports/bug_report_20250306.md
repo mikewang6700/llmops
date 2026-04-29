@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 # Bug Report - 2025年03月06日
 
 ## Bug 1: 辅助Agent智能体的消息调用来源修正

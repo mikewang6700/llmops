@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { ref } from 'vue'
 import { getWebApp, getWebAppConversations, stopWebAppChat, webAppChat } from '@/services/web-app'
 import type { WebAppChatRequest } from '@/models/web-app'

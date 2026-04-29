@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/19 16:50
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : google_serper.py
 """
 from langchain_community.tools import GoogleSerperRun

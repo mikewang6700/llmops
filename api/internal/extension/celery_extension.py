@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/19 16:46
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : celery_extension.py
 """
 from celery import Task, Celery

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/4 10:24
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : __init__.py.py
 """
 from .api_provider_manager import ApiProviderManager

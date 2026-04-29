@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/25 0:21
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : auth_schema.py
 """
 from flask_wtf import FlaskForm

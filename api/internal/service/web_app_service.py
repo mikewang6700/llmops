@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/10 22:14
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : web_app_service.py
 """
 import json

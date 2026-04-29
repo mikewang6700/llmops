@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/01 11:11
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : provider_entity.py
 """
 import os.path

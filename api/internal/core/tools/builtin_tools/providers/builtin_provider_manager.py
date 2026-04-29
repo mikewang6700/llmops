@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/19 17:01
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : builtin_provider_manager.py
 """
 import os.path

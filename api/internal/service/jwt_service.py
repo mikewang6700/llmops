@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/25 22:33
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : jwt_service.py
 """
 import os

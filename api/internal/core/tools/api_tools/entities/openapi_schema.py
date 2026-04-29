@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/1 10:26
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : openapi_schema.py
 """
 from enum import Enum

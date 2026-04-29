@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { type PropType, ref } from 'vue'
 import { QueueEvent } from '@/config'

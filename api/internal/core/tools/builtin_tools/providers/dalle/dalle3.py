@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/19 21:11
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : dalle3.py
 """
 from langchain_community.tools.openai_dalle_image_generation import OpenAIDALLEImageGenerationTool

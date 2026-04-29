@@ -1,5 +1,5 @@
 import { get, post } from '@/utils/request'
-import { type AuthorizeResponse, type ProviderResponse } from '@/models/oauth'
+// Author: mikewang6700
 
 // 获取指定第三方授权服务的重定向地址
 export const provider = (provider_name: string) => {

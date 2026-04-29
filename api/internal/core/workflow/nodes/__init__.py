@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/25 12:06
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : __init__.py.py
 """
 from .base_node import BaseNode

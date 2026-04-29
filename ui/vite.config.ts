@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'

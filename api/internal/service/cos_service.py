@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/12 10:50
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : cos_service.py
 """
 import hashlib

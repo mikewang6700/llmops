@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/4/5 19:03
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : module.py
 """
 from flask_login import LoginManager

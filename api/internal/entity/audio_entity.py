@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/01/28 10:38
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : audio_entity.py
 """
 # 允许的语音音色

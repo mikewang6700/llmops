@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/4/5 18:55
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : database_extension.py
 """
 from pkg.sqlalchemy import SQLAlchemy

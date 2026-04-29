@@ -1,3 +1,4 @@
+// Author: mikewang6700
 export default {
   // 获取localStorage中的值
   get: (key: string, defaultValue: any = ''): any => {

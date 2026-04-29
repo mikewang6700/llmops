@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/01 11:48
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : chat.py
 """
 from langchain_openai import ChatOpenAI

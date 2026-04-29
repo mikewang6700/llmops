@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/25 15:40
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : code_entity.py
 """
 from langchain_core.pydantic_v1 import Field

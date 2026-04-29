@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/28 14:37
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : workflow_entity.py
 """
 from enum import Enum

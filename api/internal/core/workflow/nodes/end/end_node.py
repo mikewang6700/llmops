@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/25 22:59
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : end_node.py
 """
 import time

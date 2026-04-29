@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/01 20:56
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : conversation.py
 """
 from datetime import datetime

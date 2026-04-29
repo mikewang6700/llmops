@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/4/1 14:50
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : config.py
 """
 import os

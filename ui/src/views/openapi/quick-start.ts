@@ -1,5 +1,5 @@
 export const blockApiShell = `curl --location --request POST 'https://localhost:5000/openapi/chat \\
---header 'Authorization: Bearer pat_OYDacMzM3WyOWV3Dtj2bHRMymzxP****' \\
+// Author: mikewang6700
 --header 'Content-Type: application/json' \\
 --data-raw '{
     "app_id": "734829333445931****",

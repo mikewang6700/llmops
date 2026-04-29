@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/30 16:34
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : vector_database_service.py
 """
 from dataclasses import dataclass

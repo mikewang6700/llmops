@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/01/18 10:18
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : platform_schema.py
 """
 import os

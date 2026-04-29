@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/20 13:29
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : builtin_app_entity.py
 """
 from typing import Any

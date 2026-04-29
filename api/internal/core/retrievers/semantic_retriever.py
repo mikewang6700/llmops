@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/19 13:39
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : semantic_retriever.py
 """
 from typing import List

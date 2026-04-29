@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { type BaseResponse } from '@/models/base'
 
 // 上传图片响应结构

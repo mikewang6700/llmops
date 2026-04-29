@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/09/03 21:13
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : keyword_table_service.py
 """
 from dataclasses import dataclass

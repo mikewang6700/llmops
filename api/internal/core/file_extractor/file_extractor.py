@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/30 16:14
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : file_extractor.py
 """
 import os.path

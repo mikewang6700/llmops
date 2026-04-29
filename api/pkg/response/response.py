@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/4/1 19:30
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : response.py
 """
 from dataclasses import field, dataclass

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/29 11:04
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : app_entity.py
 """
 from enum import Enum

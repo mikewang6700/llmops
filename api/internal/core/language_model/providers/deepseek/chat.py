@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2025/02/01 2:40
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : chat.py
 """
 import os

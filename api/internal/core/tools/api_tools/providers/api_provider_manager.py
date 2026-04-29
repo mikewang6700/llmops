@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/4 10:25
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : api_provider_manager.py
 """
 from dataclasses import dataclass

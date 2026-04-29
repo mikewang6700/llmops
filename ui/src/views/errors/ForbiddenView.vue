@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import Forbidden from '@/assets/images/forbidden.png'
 </script>

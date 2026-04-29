@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 # Bug Report - 2025年01月02日
 
 ## Bug 1: 修复 middleware.py 中未判断 account 是否存在

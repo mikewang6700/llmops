@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/21 20:51
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : builtin_category_manager.py
 """
 import os.path

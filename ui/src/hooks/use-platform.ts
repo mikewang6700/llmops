@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { ref } from 'vue'
 import { getWechatConfig, updateWechatConfig } from '@/services/platform'
 import type { UpdateWechatConfigRequest } from '@/models/platform'

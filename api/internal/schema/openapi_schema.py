@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/19 22:16
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : openapi_schema.py
 """
 import uuid

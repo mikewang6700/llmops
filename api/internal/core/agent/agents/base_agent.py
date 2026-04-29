@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/01 15:35
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : base_agent.py
 """
 import uuid

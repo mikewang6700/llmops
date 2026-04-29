@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/25 11:47
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : workflow_entity.py
 """
 import re

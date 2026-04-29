@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import { useRoute } from 'vue-router'
 import IconHomeFull from '@/components/icons/IconHomeFull.vue'

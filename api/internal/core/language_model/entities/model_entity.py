@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/01 10:50
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : model_entity.py
 """
 from abc import ABC

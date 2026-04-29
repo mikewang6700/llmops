@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/30 13:35
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : embeddings_service.py
 """
 from dataclasses import dataclass

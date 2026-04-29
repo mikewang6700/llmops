@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/13 21:57
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : logging_extension.py
 """
 import logging

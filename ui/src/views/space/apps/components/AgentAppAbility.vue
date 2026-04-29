@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import LongTermMemoryAbilityItem from './abilities/LongTermMemoryAbilityItem.vue'
 import OpeningAbilityItem from './abilities/OpeningAbilityItem.vue'

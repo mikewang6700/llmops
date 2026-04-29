@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { useAuthorize } from '@/hooks/use-oauth'
+<!-- Author: mikewang6700 -->
 import { useCredentialStore } from '@/stores/credential'
 
 // 1.定义页面所需的数据

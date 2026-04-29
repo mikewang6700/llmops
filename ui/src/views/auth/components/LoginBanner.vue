@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import BannerImage from '@/assets/images/login-banner.png'
 

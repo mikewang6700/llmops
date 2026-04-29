@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { type BasePaginatorResponse, type BaseResponse } from '@/models/base'
 
 // 获取知识库分页列表接口响应结构

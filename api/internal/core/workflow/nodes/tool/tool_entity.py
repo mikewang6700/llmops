@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/11/25 16:37
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : tool_entity.py
 """
 from typing import Any, Literal

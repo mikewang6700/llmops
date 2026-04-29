@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/12 10:43
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : upload_file_entity.py
 """
 

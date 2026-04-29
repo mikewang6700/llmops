@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 <script setup lang="ts">
 import LoginBanner from './components/LoginBanner.vue'
 import LoginForm from './components/LoginForm.vue'

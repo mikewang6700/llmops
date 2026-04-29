@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import type { BaseResponse } from '@/models/base'
 
 // 获取内置应用分类响应结构体

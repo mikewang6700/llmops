@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/12/02 15:30
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : language_model_service.py
 """
 import logging

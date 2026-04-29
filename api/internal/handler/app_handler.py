@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/3/29 14:59
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : app_handler.py
 """
 from dataclasses import dataclass

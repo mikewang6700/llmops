@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/10/25 14:48
-@Author  : thezehui@gmail.com
+@Author  : mikewang6700
 @File    : oauth.py
 """
 from abc import ABC, abstractmethod

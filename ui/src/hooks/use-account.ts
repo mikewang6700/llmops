@@ -1,3 +1,4 @@
+// Author: mikewang6700
 import { ref } from 'vue'
 import { getCurrentUser, updateAvatar, updateName, updatePassword } from '@/services/account'
 import { Message } from '@arco-design/web-vue'

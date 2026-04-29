@@ -1,3 +1,4 @@
+<!-- Author: mikewang6700 -->
 # Bug Report - 2025年01月01日
 
 ## Bug 1: 缺少 @login_required 装饰器
